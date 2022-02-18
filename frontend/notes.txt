@@ -1,3 +1,5 @@
 npm create-react-app
 dentro de la carpeta material-2 se pone npm install @material-ui/core
 PS D:\Escritorio\8vo semestre LMAD\PW 2\Digitch\frontend\material-2> npm start para ejecutar aplicacion
+La segunda vez:
+npm install -g create-react-app
